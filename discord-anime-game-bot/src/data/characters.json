@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Goku",
+      "anime": "Dragon Ball Z",
+      "power_level": 9000,
+      "level": 50,
+      "abilities": ["Kamehameha", "Spirit Bomb"],
+      "is_evolved": false
+    },
+    {
+      "id": 2,
+      "name": "Luffy",
+      "anime": "One Piece",
+      "power_level": 8000,
+      "level": 45,
+      "abilities": ["Gum-Gum Pistol", "Gear Second"],
+      "is_evolved": false
+    },
+    {
+      "id": 3,
+      "name": "Naruto",
+      "anime": "Naruto",
+      "power_level": 7500,
+      "level": 40,
+      "abilities": ["Rasengan", "Shadow Clone Jutsu"],
+      "is_evolved": false
+    },
+    {
+      "id": 4,
+      "name": "Ichigo",
+      "anime": "Bleach",
+      "power_level": 8500,
+      "level": 47,
+      "abilities": ["Getsuga Tensho", "Bankai"],
+      "is_evolved": false
+    },
+    {
+      "id": 5,
+      "name": "Saitama",
+      "anime": "One Punch Man",
+      "power_level": 10000,
+      "level": 55,
+      "abilities": ["Serious Punch", "Consecutive Normal Punches"],
+      "is_evolved": false
+    }
+  ]
+}
