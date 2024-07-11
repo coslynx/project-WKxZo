@@ -1,0 +1,31 @@
+{
+  "quests": [
+    {
+      "id": 1,
+      "name": "Collect 10 different anime characters",
+      "description": "Collect a variety of anime characters from different anime series to complete this quest.",
+      "reward": {
+        "currency": 100,
+        "experience": 50
+      }
+    },
+    {
+      "id": 2,
+      "name": "Win 5 battles with your characters",
+      "description": "Defeat opponents in battles using your collected characters to complete this quest.",
+      "reward": {
+        "currency": 150,
+        "experience": 75
+      }
+    },
+    {
+      "id": 3,
+      "name": "Reach level 10 with a character",
+      "description": "Level up a character to level 10 by participating in battles to complete this quest.",
+      "reward": {
+        "currency": 200,
+        "experience": 100
+      }
+    }
+  ]
+}
